@@ -1,2 +1,5 @@
 When would you want to use a remote repository rather than keeping all your work local?
 To create a plains tex file and/or away from computer
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
